@@ -1,0 +1,14 @@
+button{
+    color:white;
+    background-color: black;
+    /* padding: 20px; */
+    /* margin: 20px; */
+    width: auto;
+}
+input{
+    background-color: red;
+    color: white;
+    /* padding: 20px; */
+    /* margin: 20px; */
+    width: auto;
+}
